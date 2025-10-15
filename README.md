@@ -1,26 +1,84 @@
-# 📜 Certificates Portfolio
+Понял тебя, тогда структура README будет **без отдельной папки `certificates`**, сразу по годам, а в рамках одного соревнования можно разложить **по категориям/языкам**.
 
-This repository contains my verified certificates, diplomas, and achievements related to programming and computer science.
+Вот пример, как красиво оформить для GitHub:
 
-## 🧠 Competitions & Achievements
+```markdown
+# 📘 Portfolio Documents
 
-### 🏆 Battle University — Yandex Tournament
-**Finalist (183rd place)**  
-`Battle_University.pdf`
-
-### 💻 CodeRun Boost Challenge (General)
-**13th place overall**  
-`General.pdf`
-
-### 🔠 CodeRun Boost Challenge — by Language
-| Language | Place | File |
-|-----------|-------|------|
-| C++       | 18th  | `C++.pdf` |
-| Java      | 15th  | `Java.pdf` |
-| Kotlin    | 13th  | `Kotlin.pdf` |
-| Python    | 15th  | `Python.pdf` |
+Собрание моих сертификатов, дипломов и публикаций, сгруппированных по годам.  
+Файлы находятся в соответствующих папках по годам в репозитории.
 
 ---
 
-## 📂 Repository Structure
+## 🏆 2025
 
+### CodeRun Boost Challenge
+**Общее соревнование:**  
+- Сертификат: `General.pdf`  
+- Место: 13  
+
+**По языкам:**
+| Язык   | Место | Файл |
+|--------|-------|------|
+| C++    | 18    | `C++.pdf` |
+| Java   | 15    | `Java.pdf` |
+| Kotlin | 13    | `Kotlin.pdf` |
+| Python | 15    | `Python.pdf` |
+
+### Баттл ВУЗов
+- Финалист (184 место)  
+- Файл: `Battle_University.pdf`
+
+### Changellenge Education
+- Успешно завершён курс  
+- Навыки: SQL, Excel, Python, PowerPoint, презентация решений  
+- Подтверждено Андреем Алясовым (СЕО и основатель Changellenge >> Education)  
+- Дата выдачи: июнь 2025  
+- Файлы: `Changellenge_Education.pdf`, `Hackathon_diplom.pdf`
+
+---
+
+## 🎓 2023
+
+### Образовательный форум МФТИ «YaProfi»
+- Прослушана программа по искусственному интеллекту, математике и физике  
+- Даты проведения: 24–28 апреля 2023 г.  
+- Файл: `YaProfi_sert.pdf`
+
+### Хакатон МФТИ
+- Призёр, команда **Rain**  
+- Файл: `Hackathon_diplom.pdf`
+
+---
+
+## 📄 2020
+
+### Публикация в журнале *IRAMP* (Швейцария)
+- ISSN: 2229-39-44  
+- Статья: *Space-time coupling phenomena in EM pulses of finite energy in free space*  
+- Авторы: EA Rakhmanov, NL Popov, AV Vinogradov  
+- Файл: `Publication_Space-Time_Couplings_2020.pdf`
+
+---
+
+## 📂 Структура проекта
+
+```
+
+portfolio-docs/
+├── 2020/
+│   └── Publication_Space-Time_Couplings_2020.pdf
+├── 2023/
+│   ├── YaProfi_sert.pdf
+│   └── Hackathon_diplom.pdf
+└── 2025/
+├── Battle_University.pdf
+├── General.pdf
+├── C++.pdf
+├── Java.pdf
+├── Kotlin.pdf
+├── Python.pdf
+├── Changellenge_Education.pdf
+└── Hackathon_diplom.pdf
+
+```
