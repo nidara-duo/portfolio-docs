@@ -67,11 +67,11 @@ portfolio-docs/
 │   ├── YaProfi_sert.pdf
 │   └── Hackathon_diplom.pdf
 └── 2025/
-├── Battle_University.pdf
-├── General.pdf
-├── C++.pdf
-├── Java.pdf
-├── Kotlin.pdf
-├── Python.pdf
-├── Changellenge_Education.pdf
-└── Hackathon_diplom.pdf
+    ├── Battle_University.pdf
+    ├── General.pdf
+    ├── C++.pdf
+    ├── Java.pdf
+    ├── Kotlin.pdf
+    ├── Python.pdf
+    ├── Changellenge_Education.pdf
+    └── Hackathon_diplom.pdf
