@@ -29,7 +29,7 @@
 - Навыки: SQL, Excel, Python, PowerPoint, презентация решений  
 - Подтверждено Андреем Алясовым (СЕО и основатель Changellenge >> Education)  
 - Дата выдачи: июнь 2025  
-- Файлы: `Changellenge_Education.pdf`, `Hackathon_diplom.pdf`
+- Файл: `Changellenge_Education.pdf`
 
 ---
 
@@ -40,7 +40,7 @@
 - Даты проведения: 24–28 апреля 2023 г.  
 - Файл: `YaProfi_sert.pdf`
 
-### Хакатон МФТИ
+### Хакатон МФТИ по математике, искусственному интеллекту и физике «Я — Профессионал»
 - Призёр, команда **Rain**  
 - Файл: `Hackathon_diplom.pdf`
 
@@ -72,6 +72,5 @@ portfolio-docs/
     ├── C++.pdf
     ├── Java.pdf
     ├── Kotlin.pdf
-    ├── Python.pdf
-    ├── Changellenge_Education.pdf
-    └── Hackathon_diplom.pdf
+    ├── Python.pdfs
+    └── Changellenge_Education.pdf
