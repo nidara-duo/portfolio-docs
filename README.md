@@ -79,10 +79,10 @@ portfolio-docs/
 │   └── Hackathon_diplom.pdf
 └── 2025/
     ├── Battle_University.pdf
-    ├── General.pdf
     ├── C++.pdf
+    ├── Changellenge_Education.pdf
+    ├── General.pdf
     ├── Java.pdf
     ├── Kotlin.pdf
     ├── ML-training-4.0.pdf
-    ├── Python.pdf
-    └── Changellenge_Education.pdf
+    └── Python.pdf
