@@ -11,17 +11,17 @@
 
 **Общий зачёт:**
 
-- Сертификат: `CodeRun_Winter_Overall.pdf`
+- Сертификат: `CodeRun_Winter.pdf`
 - Место: **2**
 
 **Результаты по языкам:**
 
-| Язык   | Место | Сертификат                   |
-|--------|-------|-------------------------------|
-| C++    | 2     | `CodeRun_Winter_CPP.pdf`      |
-| Java   | 2     | `CodeRun_Winter_Java.pdf`     |
-| Kotlin | 4     | `CodeRun_Winter_Kotlin.pdf`   |
-| Python | 4     | `CodeRun_Winter_Python.pdf`   |
+| Язык   | Место |
+|--------|-------|
+| C++    | 2     |
+| Java   | 2     |
+| Kotlin | 4     |
+| Python | 4     |
 
 ---
 
@@ -126,11 +126,7 @@ portfolio-docs/
     ├── CodeRun_Boost_Java.pdf
     ├── CodeRun_Boost_Kotlin.pdf
     ├── CodeRun_Boost_Python.pdf
-    ├── CodeRun_Winter_Overall.pdf
-    ├── CodeRun_Winter_CPP.pdf
-    ├── CodeRun_Winter_Java.pdf
-    ├── CodeRun_Winter_Kotlin.pdf
-    ├── CodeRun_Winter_Python.pdf
+    ├── CodeRun_Winter.pdf
     ├── ML-training-4.0.pdf
     └── SQL_Advent.pdf
 ```
