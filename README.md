@@ -119,6 +119,5 @@ portfolio-docs/
     └── CodeRun_Winter_Kotlin.pdf
     ├── Changellenge_Education.pdf
     ├── ML-training-4.0.pdf
-    ├── SQL_Advent.pdf
-
+    └── SQL_Advent.pdf
 ```
