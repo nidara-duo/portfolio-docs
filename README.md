@@ -7,6 +7,28 @@
 
 ## 🏆 2025
 
+### CodeRun Winter Challenge
+
+**Общий зачёт:**
+
+* Сертификат: `CodeRun_Winter_Overall.pdf`
+* Место: **2**
+
+**Результаты по языкам:**
+
+| Язык   | Место | Сертификат   |
+| ------ | ----- | ------------ |
+| C++    | 2    | `CodeRun_Winter_CPP.pdf`    |
+| Java   | 2    | `CodeRun_Winter_Java.pdf`   |
+| Kotlin | 4    | `CodeRun_Winter_Kotlin.pdf` |
+| Python | 4    | `CodeRun_Winter_Python.pdf` |
+
+### SQL Advent Calendar — **Interview Master**
+
+* Сертификат: `SQL_Advent.pdf`
+* Описание: Успешно пройдены все 24 ежедневных задания в рамках SQL Advent Calendar.
+
+
 ### Тренировки — **Забег по алгоритмам**
 
 * Сертификат: `Algo-training-8.0.pdf`
@@ -21,17 +43,17 @@
 
 **Общий зачёт:**
 
-* Сертификат: `General.pdf`
+* Сертификат: `CodeRun_Boost_Overall.pdf`
 * Место: **13**
 
 **Результаты по языкам:**
 
 | Язык   | Место | Сертификат   |
 | ------ | ----- | ------------ |
-| C++    | 18    | `C++.pdf`    |
-| Java   | 15    | `Java.pdf`   |
-| Kotlin | 13    | `Kotlin.pdf` |
-| Python | 15    | `Python.pdf` |
+| C++    | 18    | `CodeRun_Boost_CPP.pdf`    |
+| Java   | 15    | `CodeRun_Boost_Java.pdf`   |
+| Kotlin | 13    | `CodeRun_Boost_Kotlin.pdf` |
+| Python | 15    | `CodeRun_Boost_Python.pdf` |
 
 ### Баттл ВУЗов
 
@@ -69,7 +91,7 @@
 * **ISSN:** 2229-39-44
 * **Статья:** *Space-time coupling phenomena in EM pulses of finite energy in free space*
 * **Авторы:** EA Rakhmanov, NL Popov, AV Vinogradov
-* Файл: `Publication_Space-Time_Couplings_2020.pdf`
+* Файл: `Publication_Space-Time_Couplings.pdf`
 
 ---
 
@@ -78,16 +100,25 @@
 ```
 portfolio-docs/
 ├── 2020/
-│   └── Publication_Space-Time_Couplings_2020.pdf
+│   └── Publication_Space-Time_Couplings.pdf
 ├── 2023/
 │   ├── YaProfi_sert.pdf
 │   └── Hackathon_diplom.pdf
 └── 2025/
+    ├── Algo-training-8.0.pdf
     ├── Battle_University.pdf
-    ├── C++.pdf
+    ├── CodeRun_Boost_Overall.pdf
+    ├── CodeRun_Boost_CPP.pdf
+    ├── CodeRun_Boost_Java.pdf
+    ├── CodeRun_Boost_Kotlin.pdf
+    ├── CodeRun_Boost_Python.pdf
+    ├── CodeRun_Winter_Overall.pdf
+    ├── CodeRun_Winter_CPP.pdf
+    ├── CodeRun_Winter_Java.pdf
+    ├── CodeRun_Winter_Python.pdf
+    └── CodeRun_Winter_Kotlin.pdf
     ├── Changellenge_Education.pdf
-    ├── General.pdf
-    ├── Java.pdf
-    ├── Kotlin.pdf
     ├── ML-training-4.0.pdf
-    └── Python.pdf
+    ├── SQL_Advent.pdf
+
+```
