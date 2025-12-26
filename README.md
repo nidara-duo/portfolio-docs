@@ -28,7 +28,7 @@
 ### SQL Advent Calendar — **Interview Master**
 
 - Сертификат: `SQL_Advent.pdf`
-- Описание: успешно пройдены все 24 ежедневных задания в рамках SQL Advent Calendar.
+- Выполнил 24 ежедневных задания в рамках SQL Advent Calendar.
 
 ---
 
